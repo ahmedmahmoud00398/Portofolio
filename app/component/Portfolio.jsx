@@ -10,7 +10,7 @@ const projects = [
   {
     title: 'E-commerce Store',
     description: 'A modern e-commerce web app built with React and Stripe integration.',
-    link: 'https://e-commerce-vert-gamma-49.vercel.app/',
+    link: 'https://e-commerce-ahmedmahmoud00398s-projects.vercel.app/',
     image: '/E-commerce.png'
   },
   {
