@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <>
      
-      <main className=" bg-[#030b16] text-white pt-24 px-6 pb-12"id='contact'>
+      <main className=" bg-black text-white pt-24 px-6 pb-12"id='contact'>
         <section className="max-w-3xl mx-auto text-center">
           <h2 className="text-4xl font-bold text-blue-400 mb-8">Contact Information</h2>
 
