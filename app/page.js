@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <main className="min-h-screen bg-[#030b16] text-white py-12 px-6 border-b-2 border-blue-500">
+      <main className="min-h-screen bg-black text-white py-12 px-6 border-b-2 border-blue-500">
         <section className="max-w-7xl mx-auto flex flex-col-reverse md:flex-row items-center justify-between gap-12 py-24 ms-15">
         
           <motion.div
