@@ -33,9 +33,9 @@ export default function Projects() {
     <>
       
       <main className="min-h-screen bg-[#030b16] text-white pt-24 px-6 border-b-2 border-blue-500" id="portfolio">
-        <section className="max-w-6xl mx-auto">
+        <section className="max-w-6xl mx-auto mb-20">
           <h2 className="text-4xl font-bold text-center text-blue-400 mb-12">My Portfolio</h2>
-          <div className="grid md:grid-cols-4 gap-8 mb-10">
+          <div className="grid md:grid-cols-4 gap-8">
             {projects.map((project, index) => (
               <motion.div
                 key={index}
