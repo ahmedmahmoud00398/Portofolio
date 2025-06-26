@@ -12,7 +12,7 @@ export default function Navbar() {
   
 
   return (
-    <header className="fixed top-0 left-0 w-full bg-[#030b16] text-white shadow z-50">
+    <header className="fixed top-0 left-0 w-full bg-black text-white shadow z-50">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         <h1 className="text-2xl font-bold text-blue-500">Port<span className="text-white">folio</span></h1>
 
