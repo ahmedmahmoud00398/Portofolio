@@ -19,6 +19,13 @@ const projects = [
     link: ' https://ahmedmahmoud00398.github.io/bootstrapjs-project/',
     image: '/Landingpage.png'
   },
+   {
+    title: 'Code-Scope',
+    description: ' A Startup Company Website',
+    link: 'https://codescope-git-master-codescopes-projects.vercel.app/',
+    image: '/CodeScope.png'
+  },
+  
 ];
 
 export default function Projects() {
