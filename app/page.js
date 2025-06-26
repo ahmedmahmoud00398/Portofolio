@@ -1,4 +1,3 @@
-// app/page.js
 'use client';
 
 import Navbar from './component/Navbar';
@@ -50,7 +49,7 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.2 }}
           >
             <Image
-              src="/AhmedMahmoud.jpg" // حط الصورة في public/profile.png
+              src="/AhmedMahmoud.jpg" 
               alt="Ahmed Profile"
               layout="fill"
               objectFit="cover"
@@ -70,11 +69,11 @@ export default function Home() {
             <p className="text-sm">Years of learning</p>
           </div>
           <div>
-            <h3 className="text-3xl font-bold text-white">5+</h3>
+            <h3 className="text-3xl font-bold text-white">10+</h3>
             <p className="text-sm">Projects Completed</p>
           </div>
           <div>
-            <h3 className="text-3xl font-bold text-white">5+</h3>
+            <h3 className="text-3xl font-bold text-white">20+</h3>
             <p className="text-sm">Technologies Used</p>
           </div>
           <div>
