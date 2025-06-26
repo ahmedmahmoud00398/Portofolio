@@ -7,7 +7,7 @@ export default function About() {
   return (
     <>
       
-      <main className="min-h-screen bg-[#030b16] text-white pt-24 px-6 border-b-2 border-blue-500" id='about'>
+      <main className="min-h-screen bg-black text-white pt-24 px-6 border-b-2 border-blue-500" id='about'>
         <section className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
           {/* Image */}
           <motion.div
